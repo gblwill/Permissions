@@ -1,4 +1,10 @@
 {
+  "AllAccess": {
+    "Type": "Permission",
+    "Permission": [
+      1704200864,
+    ]
+  },
   "Hakaishin": {
     "Type": "Group",
     "GroupID": 274048442
